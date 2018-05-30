@@ -1296,7 +1296,7 @@ body {
   letter-spacing: .2rem;
 }
 .cid-qz67kfAWuh H1 {
-  color: #232323;
+  color: #0d00ff;
   text-align: right;
 }
 .cid-qz67kfAWuh H3 {
@@ -1454,6 +1454,24 @@ body {
 .cid-qMgmqIcpYx .mbr-text {
   color: #ff7300;
 }
+.cid-qTwm0Q3yrb {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qTwm0Q3yrb .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qTwm0Q3yrb .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qTwm0Q3yrb .mbr-text {
+  color: #ff7300;
+}
 .cid-qzu5E6odMD {
   padding-top: 75px;
   padding-bottom: 90px;
@@ -1580,7 +1598,7 @@ body {
 }
 .cid-qzyGhXr5e4 {
   padding-top: 75px;
-  padding-bottom: 60px;
+  padding-bottom: 45px;
   background-color: #0d00ff;
 }
 .cid-qzyGhXr5e4 .mbr-section-subtitle {
@@ -1622,7 +1640,6 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background: #0d00ff;
-  background: linear-gradient(0deg, #ff7300, #0d00ff);
 }
 .cid-qMSdEOkGWx .image-block {
   margin: auto;
@@ -1951,7 +1968,6 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background: #0d00ff;
-  background: linear-gradient(0deg, #ff7300, #0d00ff);
 }
 .cid-qSMRXCKjMC .image-block {
   margin: auto;
@@ -2131,7 +2147,6 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background: #0d00ff;
-  background: linear-gradient(0deg, #ff7300, #0d00ff);
 }
 .cid-qSMHP31yk7 .image-block {
   margin: auto;
@@ -2330,7 +2345,7 @@ body {
 }
 .cid-qzyGhXr5e4 {
   padding-top: 75px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #0d00ff;
 }
 .cid-qzyGhXr5e4 .mbr-section-subtitle {
@@ -2987,6 +3002,143 @@ body {
 }
 @media (max-width: 768px) {
   .cid-qRAuY7qfRD .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qTwklO5fE6 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #0d00ff;
+}
+.cid-qTwklO5fE6 .image-block {
+  margin: auto;
+}
+.cid-qTwklO5fE6 figcaption {
+  position: relative;
+}
+.cid-qTwklO5fE6 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qTwklO5fE6 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qTwoFotsaK {
+  padding-top: 75px;
+  padding-bottom: 45px;
+  background-color: #0d00ff;
+}
+.cid-qTwoFotsaK .mbr-section-subtitle {
+  color: #ff7300;
+}
+.cid-qTwoFotsaK H2 {
+  color: #ff7300;
+}
+.cid-qTwoFpqWPB {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background: #0d00ff;
+}
+.cid-qTwoFpqWPB .image-block {
+  margin: auto;
+}
+.cid-qTwoFpqWPB figcaption {
+  position: relative;
+}
+.cid-qTwoFpqWPB figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qTwoFpqWPB .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qTwoFpZtpI {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background: #0d00ff;
+}
+.cid-qTwoFpZtpI .image-block {
+  margin: auto;
+}
+.cid-qTwoFpZtpI figcaption {
+  position: relative;
+}
+.cid-qTwoFpZtpI figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qTwoFpZtpI .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qTwoFqI77f {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background: #0d00ff;
+}
+.cid-qTwoFqI77f .image-block {
+  margin: auto;
+}
+.cid-qTwoFqI77f figcaption {
+  position: relative;
+}
+.cid-qTwoFqI77f figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qTwoFqI77f .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qTwoFr9Gtz {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: #0d00ff;
+}
+.cid-qTwoFr9Gtz .image-block {
+  margin: auto;
+}
+.cid-qTwoFr9Gtz figcaption {
+  position: relative;
+}
+.cid-qTwoFr9Gtz figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qTwoFr9Gtz .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qTwr95TLuo {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background: #0d00ff;
+}
+.cid-qTwr95TLuo .image-block {
+  margin: auto;
+}
+.cid-qTwr95TLuo figcaption {
+  position: relative;
+}
+.cid-qTwr95TLuo figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qTwr95TLuo .image-block {
     width: 100% !important;
   }
 }
